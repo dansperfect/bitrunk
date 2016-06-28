@@ -160,6 +160,7 @@ DEPENDENCIES
   spring
   sqlite3
   turbolinks
+  tzinfo
   uglifier
   web-console
 
