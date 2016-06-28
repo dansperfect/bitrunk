@@ -8,7 +8,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
-gem 'tzinfo'
+gem 'tzinfo-data'
 
 group :development, :test do
 	gem 'sqlite3'
