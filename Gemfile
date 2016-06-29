@@ -15,6 +15,14 @@ group :development, :test do
 	gem 'byebug'
 	gem 'web-console'
 	gem 'spring'
+	gem 'guard'
+
+end
+
+group :test do
+	gem 'minitest-reporters'
+	gem 'mini_backtrace'
+	gem 'guard-minitest'
 end
 
 group :production do
